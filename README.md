@@ -1,2 +1,2 @@
 # wrt_release
-release for wrt
+*wrt os for home use.
